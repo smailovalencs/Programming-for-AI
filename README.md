@@ -2,6 +2,8 @@
 
 Основной файл: [Assignment_3_NLP.ipynb](Assignment_3_NLP.ipynb)
 
+Объяснение в обычном формате: [Открыть PDF на русском](ASSIGNMENT_3_EXPLAINED_RU.pdf) — Python и Jupyter не нужны.
+
 Подробный разбор для начинающего: [Объяснение Assignment 3 на русском](ASSIGNMENT_3_EXPLAINED_RU.md).
 В документе разобраны все 21 кодовая ячейка, результаты и вопросы для защиты.
 
